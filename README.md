@@ -20,17 +20,19 @@ Working as of Wednesday, Janurary 10th, up to date LCD and OLED Deck
 
 6. Install protonup-QT, and then install proton-GE 7.20, within protonup-QT you will have the option to make AC run with it
 
-7. Go to steam and set AC to force compatibility and run with 7.2, let the game start, it will chug along for 10 minutes or so, as it is installing dependancies, it will crash naturally. 
+7. Go to steam and set AC to force compatibility and run with 7.2, let the game start, it will chug along for 10 minutes or so, as it is installing dependancies, it will crash naturally
 
 8. This step is NOT MANDATORY, and only if you are curious about what is going on, set a tail to the winecfg file to see what dependancies are being installed. 
 
-9. Once the game has crashed, run it again, this time it will run for 10 minutes and then the game will open, OR the game might crash again, do not panic, simply let the game run till it crashes then try again.
+9. Once the game has crashed, run it again, this time it will run for 10 minutes and then the game will open, OR the game might crash again, do not panic, simply let the game run till it crashes then try again
 
 10. Go ahead and close the game, and run the game for a third (or final) time, this time the game will install the final batch of dependancies and be ready to play
 
-11. Turn on 32-bit in the settings, otherwise the game will not work, additionally, as things are now the game does not work with game launcher mode, you will have to play it via desktop mode but don't worry, they are functionally the same, just go to settings and set your controls to controller instead of 
+11. At this point I usually switch the forced Proton version to Proton Experimental since the game only needs the previous versions of Proton for Installing Prerequisites and not to actually run
+
+12. Turn on 32-bit in the settings, otherwise the game will not work, additionally, as things are now the game does not work with game launcher mode, you will have to play it via desktop mode but don't worry, they are functionally the same, just go to settings and set your controls to controller instead of 
 keyboard
 
-12. Mods work and can be installed normally, however as things are now, Content Manager is not working, and I am looking for a way to get it up and running. 
+13. Mods work and can be installed normally, however as things are now, Content Manager is not working, and I am looking for a way to get it up and running
 
-13. Enjoy the best racing sim on the market, once again playable on Deck
+14. Enjoy the best racing sim on the market, once again playable on Deck
